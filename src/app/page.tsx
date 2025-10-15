@@ -55,7 +55,7 @@ export default function Home() {
           <div className="relative w-full rounded-xl overflow-hidden bg-black/5 animate-fade-in-right flex items-center justify-center">
             <div className="relative w-full h-64 md:h-96">
               <Image
-                src="public/earth's-internal-power.png"
+                src="public/earths-internal-power.png"
                 alt="Earth internal power"
                 fill
                 style={{ objectFit: "contain" }}
